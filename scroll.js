@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         Scroll top/bottom
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    https://github.com/anton-semenchenko/tampermonkey
+// @version      0.2
+// @license      MIT
 // @include      *
 // @description  Scrolls page top/bottom
 // @author       Anton Semenchenko
